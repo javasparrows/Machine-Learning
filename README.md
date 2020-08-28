@@ -5,6 +5,11 @@
 
 
 ## データセット
+
+### kaggle Titanic データセット
+
+kaggleのTitanicデータはすでに`data`の中に入っていますが、簡単にダウンロード方法を紹介します。
+
 kaggleのTitanicデータは以下からダウンロードできます。kaggleへの登録（無料）が必要です。
 https://www.kaggle.com/c/titanic/data
-すると、 `titanic.zip` というデータがダウンロードできます。そのデータをこのリポジトリの `data` ディレクトリの中に移動してください。そして、zipファイルを展開します。 
+$すると、 `titanic.zip` というデータがダウンロードできます。そのデータをこのリポジトリの`datai/titanic`ディレクトリの中に移動してください。そして、zipファイルを展開します。 
